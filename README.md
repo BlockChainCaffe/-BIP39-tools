@@ -4,6 +4,7 @@ Some simple tools to experiment, study and use Bitcoin's BIP39 see phrases.
 
 You might use these to:
 - generate a private key from random noise (use at your own risk)
+- generate a private key from rolling any type of dice (not just d6)
 - derive the BIP39 seed phrase from the private key
 - ... more to come in the future maybe, just ask
 
